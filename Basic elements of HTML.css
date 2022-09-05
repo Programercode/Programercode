@@ -1,0 +1,29 @@
+/* Created by ✨🌜⚡PrOgRaMeR⚡🌛✨ */
+body{
+    background: #33B3FF; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #33B3FF, #FF9D33, #6E33FF, #FF4D4D);
+    background: linear-gradient(to right, #33B3FF, #FF9D33, #6E33FF, #FF4D4D);
+}
+.Important{
+        color:red;
+        font-size: 25px;
+        text-decoration: ;
+}
+
+ .Text-of-important{
+        color:blue;
+        font-size: 25px;
+}
+
+.Title{
+    font-size:40px;
+    font-family:Cursive;
+}
+time{
+    font-size:22px;
+    font-family: Cursive;
+}
+a{
+    text-decoration:none;
+    color:black;
+}
